@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dinosaurs likely quacked and honked like today's geese.
 Use the left arrow to go back!
